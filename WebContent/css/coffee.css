@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+body{
+	background-color:yellow; 
+	font-family: serif; /* 글꼴 지정*/
+	color:black; /* 글자색 */
+	
+}
+h1{
+	color:red;
+	border-bottom:1px solid gray; /**/
+}
+
+p.first{
+	color:green; font-size:36px;
+	font-weight: bolder; 
+}
+
+p.second{
+	color:blue;
+	font-weight: bolder;
+}
